@@ -12,7 +12,7 @@ app.use(
   cors({
     origin:
     [
-        "product-management-frontend-hbm99esto-shristi12.vercel.app",
+        "https://product-management-frontend-rho-nine.vercel.app/",
         "http://localhost:5173"
     ],
     credentials: true,
